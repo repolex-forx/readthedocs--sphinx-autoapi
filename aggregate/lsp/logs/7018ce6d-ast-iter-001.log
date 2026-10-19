@@ -1,0 +1,7 @@
+[2026-10-19T10:53:09Z] === AST ITERATION 1 START | repo=readthedocs/sphinx-autoapi sha=7018ce6d ===
+[2026-10-19T10:53:09Z] [iter=1] PHASE START: ast repo=readthedocs/sphinx-autoapi sha=7018ce6d
+[2026-10-19T10:53:09Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T10:53:48Z] [iter=1] AST chunks built count=1 triples=343444
+[2026-10-19T10:53:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7018ce6ddb6cdc4e76d5e4605c966f11fdaf4da7/.complete
+[2026-10-19T10:53:48Z] [iter=1] PHASE END: ast elapsed_s=39 elapsed_min=0.7
+[2026-10-19T10:53:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
