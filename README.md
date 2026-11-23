@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 7018ce6ddb6cdc4e76d5e4605c966f11fdaf4da7
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 7018ce6ddb6cdc4e76d5e4605c966f11fdaf4da7.nq.gz
 │   └── repolex
 │       └── 7018ce6ddb6cdc4e76d5e4605c966f11fdaf4da7
 │           └── chunk-001.nq.gz
@@ -184,6 +186,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 7018ce6ddb6cdc4e76d5e4605c966f11fdaf4da7.nq.gz
 ├── filetree
 │   └── 7018ce6ddb6cdc4e76d5e4605c966f11fdaf4da7.nq.gz
 ├── issue
@@ -193,7 +197,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 146 files
+15 directories, 148 files
 ```
 
 | Directory | What it contains |
@@ -214,4 +218,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [readthedocs/sphinx-autoapi](https://github.com/readthedocs/sphinx-autoapi)
 
 ---
-*Parsed on 2026-10-19 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-23 by [repolex](https://repolex.ai)*
